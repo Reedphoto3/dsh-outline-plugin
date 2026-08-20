@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.*
+*.jsonl
+*.jsonl.zstd
+.dsh-outline.json
+node_modules/
+coverage/

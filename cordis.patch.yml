@@ -1,0 +1,5 @@
+- insert:
+    - id: outline-panel
+      name: dsh-outline-plugin
+      config:
+        storePath: !!js process.env.DSH_OUTLINE_STORE_PATH ?? '.dsh-outline.json'
