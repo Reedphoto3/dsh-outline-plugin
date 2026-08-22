@@ -2,6 +2,8 @@
 
 为 DeepSeek Harness Web UI 增加右侧大纲面板，可在聊天时维护待办、笔记和图片附件。
 
+![dsh-outline-plugin 界面](assets/outline-panel.webp)
+
 ## 安装
 
 要求 DeepSeek Harness `0.1.0-rc.5` 或兼容版本。建议固定到已审核提交：
